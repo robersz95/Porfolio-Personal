@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: tomato;
+}
+
+main{
+    border: 3px solid black;
+    background-color: thistle;
+    /* min-height: 100vh; */
+    padding: 20px;
+    width: 80%;
+    margin: 50px auto;
+}
+
+h1{
+    text-align: center;
+}
