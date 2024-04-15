@@ -5,18 +5,43 @@
 }
 
 body{
-    background-color: tomato;
+    background-image: url(../Images/workspace-1280538_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 main{
     border: 3px solid black;
-    background-color: thistle;
+    background-color:rgba(240, 255, 255, 0.842);
     /* min-height: 100vh; */
-    padding: 20px;
-    width: 80%;
+    padding: 30px;
+    width: 50%;
     margin: 50px auto;
+    border-radius: 10px;
+}
+
+.conteiner{
+    display: flex;
+}
+
+img{
+    margin: auto;
+    margin-bottom: 30px;
 }
 
 h1{
-    text-align: center;
+    margin: auto;
 }
+
+h2, li, h3{
+    margin: 10px;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+.conteiner2{
+    display: flex;
+}
+
